@@ -1,7 +1,6 @@
 Investigate the reflectance data collected by Morimoto et al. as part of their
 2022 publication [“Spectral measurement of daylights and surface properties of
-natural objects in Japan”]
-(https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-3-3183&id=468562"). The
+natural objects in Japan”](https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-3-3183&id=468562"). The
 dataset is made available at https://zenodo.org/record/5189606 with [Creative
 Commons Attribution 4.0
 Licence](https://creativecommons.org/licenses/by/4.0/legalcode). While the data
